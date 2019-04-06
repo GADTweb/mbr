@@ -220,8 +220,8 @@
             "showTitles": false,
             "showCaptions": true,
             "showButtons": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "columns": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -1434,7 +1434,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SEND YOUR MESSEAGE</a>",
           "text1": "<strong>ADDRESS</strong><br>LO-72. Shaftsbury Putrajaya,\n<br>Jalan Alamanda, Persint 1, 62000\n<br>Putrajaya, Malaysia<br><br>\n<strong>CONTACTS</strong><br>\nEmail:&nbsp;info.gadt.web@gmail.com<br>\nPhone: +601133535825<br>\nFax: +1 (0) 000 0000 002",
           "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"halalsctec.html#header3-g\" class=\"text-black\">Current issue</a></li><li><a class=\"mbr-contacts__link text-black\" href=\"halalentbp.html#buttons1-m\">Submission</a></li><li>Archived</li></ul>",
           "form": {
@@ -2046,7 +2046,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">SEND YOUR MESSEAGE</a>",
           "text1": "<strong>ADDRESS</strong><br>LO-72. Shaftsbury Putrajaya,\n<br>Jalan Alamanda, Persint 1, 62000\n<br>Putrajaya, Malaysia<br><br>\n<strong>CONTACTS</strong><br>\nEmail:&nbsp;info.gadt.web@gmail.com<br>\nPhone: +601133535825<br>\nFax: +1 (0) 000 0000 002",
           "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"halalsctec.html#header3-g\" class=\"text-black\">Current issue</a></li><li><a class=\"mbr-contacts__link text-black\" href=\"halalentbp.html#buttons1-m\">Submission</a></li><li>Archived</li></ul>",
           "form": {
