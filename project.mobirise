@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Global Academic Development Trust-clone",
-    "currentPage": "halalsc.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -261,7 +261,7 @@
           },
           "title1": "BOOTSTRAP 3",
           "caption1": "INTERNATIONAL JOURNAL OF HALAL BUSINESS AND ENTREPRENEURSHIP PRACTICES",
-          "button1": "<a data-app-btn=\"true\" href=\"halalentbp.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"halalentbp.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE and SUBMIT PAPER</a>",
           "media2": {
             "image": {
               "active": true,
@@ -284,7 +284,7 @@
           },
           "title2": "RESPONSIVE",
           "caption2": "INTERNATIONAL JOURNAL OF HALAL SCIENCE AND TECHNOLOGY",
-          "button2": "<a data-app-btn=\"true\" href=\"halalsc.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"halalsc.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE and SUBMIT PAPER</a>",
           "media3": {
             "image": {
               "active": true,
@@ -486,7 +486,7 @@
           "price4": "200",
           "period4": "Non-Members",
           "list4": "<ul><li><b>Members Get 20% Discount</b></li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Submit Paper</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#features1-3\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Submit Paper</a>",
           "title5": "EXTENDED",
           "currency5": "$",
           "price5": "0",
