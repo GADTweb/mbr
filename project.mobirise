@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Global Academic Development Trust-clone",
-    "currentPage": "index.html",
+    "currentPage": "halalsc.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -58,12 +58,12 @@
             "showBrand": true,
             "showButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "color": "#2c2c2c",
             "hamburgerColor": "#cccccc"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\">JOURNALS LIST</a></li>     <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\"><p>SUBMISSION</p></a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\">JOURNALS LIST</a></li>     <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\"><p>SUBMISSION</p></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\">OPEN ACCESS POLICY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\">LEGAL CODE &amp; LICENSING</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\">RECRUITMENT OF REVIEWERS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\">BOOKS</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-c\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>",
           "logo": {
             "image": {
@@ -525,7 +525,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<b>Address</b><br>LO-72. Shaftsbury Putrajaya,<br>Jalan Alamanda, Persint 1, 62000<br>Putrajaya, Malaysia<br><br><br><b>Contact:</b><br>E-mail: info@gadt.com<br>Phone: +601133535825<br>Fax: +6031684000<br>",
+          "text1": "<b>Address</b><br>LO-72. Shaftsbury Putrajaya,<br>Jalan Alamanda, Persint 1, 62000<br>Putrajaya, Malaysia<br><br><br><b>Contact:</b><br>E-mail: info.gadt.web@gmail.com<br>Phone: +601133535825<br>Fax: +6031684000<br>",
           "text2": "<p><b>Links</b></p><p><a href=\"index.html#header3-5\" class=\"text-info\">Journals</a></p><p><a href=\"index.html#header3-5\" class=\"text-info\">Submission</a></p><p><br></p>",
           "_tags": [
             "Theme"
@@ -602,12 +602,12 @@
             "showBrand": true,
             "showButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "color": "#2c2c2c",
             "hamburgerColor": "#cccccc"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\">JOURNALS LIST</a></li>     <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\"><p>SUBMISSION</p></a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\">JOURNALS LIST</a></li>     <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\"><p>SUBMISSION</p></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\">OPEN ACCESS POLICY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\">LEGAL CODE &amp; LICENSING</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\">RECRUITMENT OF REVIEWERS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\">BOOKS</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-c\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>",
           "logo": {
             "image": {
@@ -1435,11 +1435,11 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>",
-          "text1": "<strong>ADDRESS</strong><br>LO-72. Shaftsbury Putrajaya,\n<br>Jalan Alamanda, Persint 1, 62000\n<br>Putrajaya, Malaysia<br><br>\n<strong>CONTACTS</strong><br>\nEmail:&nbsp;ijhs@gadt.com<br>\nPhone: +601133535825<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>ADDRESS</strong><br>LO-72. Shaftsbury Putrajaya,\n<br>Jalan Alamanda, Persint 1, 62000\n<br>Putrajaya, Malaysia<br><br>\n<strong>CONTACTS</strong><br>\nEmail:&nbsp;info.gadt.web@gmail.com<br>\nPhone: +601133535825<br>\nFax: +1 (0) 000 0000 002",
           "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"halalsctec.html#header3-g\" class=\"text-black\">Current issue</a></li><li><a class=\"mbr-contacts__link text-black\" href=\"halalentbp.html#buttons1-m\">Submission</a></li><li>Archived</li></ul>",
           "form": {
             "title": "MESSAGE",
-            "action": "siddique77hstu@gmail.com",
+            "action": "info.gadt.web@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -1535,12 +1535,12 @@
             "showBrand": true,
             "showButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "color": "#2c2c2c",
             "hamburgerColor": "#cccccc"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\">JOURNALS LIST</a></li>     <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\"><p>SUBMISSION</p></a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\">JOURNALS LIST</a></li>     <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\"><p>SUBMISSION</p></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\">OPEN ACCESS POLICY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\">LEGAL CODE &amp; LICENSING</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\">RECRUITMENT OF REVIEWERS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\">BOOKS</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-c\" data-toolbar=\"-mbrBtnMove\">CONTACT</a></li>",
           "logo": {
             "image": {
@@ -2047,11 +2047,11 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>",
-          "text1": "<strong>ADDRESS</strong><br>LO-72. Shaftsbury Putrajaya,\n<br>Jalan Alamanda, Persint 1, 62000\n<br>Putrajaya, Malaysia<br><br>\n<strong>CONTACTS</strong><br>\nEmail:&nbsp;ijhs@gadt.com<br>\nPhone: +601133535825<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>ADDRESS</strong><br>LO-72. Shaftsbury Putrajaya,\n<br>Jalan Alamanda, Persint 1, 62000\n<br>Putrajaya, Malaysia<br><br>\n<strong>CONTACTS</strong><br>\nEmail:&nbsp;info.gadt.web@gmail.com<br>\nPhone: +601133535825<br>\nFax: +1 (0) 000 0000 002",
           "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"halalsctec.html#header3-g\" class=\"text-black\">Current issue</a></li><li><a class=\"mbr-contacts__link text-black\" href=\"halalentbp.html#buttons1-m\">Submission</a></li><li>Archived</li></ul>",
           "form": {
             "title": "MESSAGE",
-            "action": "siddique77hstu@gmail.com",
+            "action": "info.gadt.web@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
