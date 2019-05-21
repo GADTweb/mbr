@@ -60,6 +60,22 @@
 #features1-z .mbr-section__col .mbr-header__text {
   font-size: 20px;
 }
+#features1-10 .mbr-section-title .mbr-header__text {
+  font-size: 30px;
+}
+#features1-10 .mbr-section__col .mbr-header__text {
+  color: #e25041;
+  font-size: 18px;
+}
+#features1-10 .mbr-header__subtext {
+  color: #28324e;
+  font-size: 15px;
+  text-align: center;
+}
+#features1-10 P {
+  color: #28324e;
+  text-align: center;
+}
 #contacts2-c P {
   color: #fac51c;
   font-size: 16px;
