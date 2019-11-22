@@ -12,7 +12,7 @@
     "versionFirst": "4.9.7",
     "siteFonts": [],
     "uniqCompNum": 34,
-    "versionPublish": "4.9.7",
+    "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
@@ -68,12 +68,13 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/668e5608-59bb-45e2-9a26-ad12e86b9f5a-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/free-sample-by-wix-128x128.jpeg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "https://gadtweb.github.io/mbr/",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -602,12 +603,13 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/668e5608-59bb-45e2-9a26-ad12e86b9f5a-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/free-sample-by-wix-128x128.jpeg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "https://gadtweb.github.io/mbr/",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1535,12 +1537,13 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/668e5608-59bb-45e2-9a26-ad12e86b9f5a-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/free-sample-by-wix-128x128.jpeg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "https://gadtweb.github.io/mbr/",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
